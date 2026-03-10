@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-<div align="left">
+<!-- <div align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=sawada-naoya&show_icons=true&theme=dark&hide_border=true" 
     height="180px"
@@ -9,7 +9,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawada-naoya&layout=compact&theme=dark&hide_border=true" 
     height="180px"
   />
-</div>
+</div> -->
 
 ## Tech Stack
 

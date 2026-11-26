@@ -6,12 +6,3 @@
   <img src="https://raw.githubusercontent.com/sawada-naoya/sawada-naoya/output/langs.svg" alt="language ratio" height="140" />
 </p>
 
-<br />
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sawada-naoya/sawada-naoya/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sawada-naoya/sawada-naoya/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/sawada-naoya/sawada-naoya/output/github-snake.svg" />
-  </picture>
-</p>
